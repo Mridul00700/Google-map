@@ -1,3 +1,3 @@
-## E-Commerce WEB APP. 
+## Google Map interfaced with react Web App
 
-### Used React, Commerce.js and Stripe
+### Used React and Google map API
